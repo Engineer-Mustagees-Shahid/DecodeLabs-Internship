@@ -1,0 +1,16 @@
+Project Name: DevOps Project 2 - Version Control with Git
+
+Objective:
+To learn and practice the basic Git workflow used in software development and DevOps.
+
+Tasks Performed:
+
+* Created a Git repository.
+* Added project files.
+* Staged files for tracking.
+* Created multiple commits.
+* Connected the repository to GitHub.
+* Pushed the project to GitHub successfully.
+
+Outcome:
+Successfully learned the fundamentals of version control using Git and GitHub.

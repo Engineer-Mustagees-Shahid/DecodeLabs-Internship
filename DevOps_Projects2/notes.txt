@@ -1,0 +1,21 @@
+Git Notes
+
+Git is a distributed version control system used to track changes in source code and other files.
+
+Benefits of Git:
+
+* Maintains project history.
+* Enables collaboration among developers.
+* Allows reverting to previous versions.
+* Supports branching and merging.
+* Integrates seamlessly with GitHub.
+
+Basic Git Workflow:
+
+1. Initialize a repository.
+2. Create or modify files.
+3. Stage changes.
+4. Commit changes.
+5. Push commits to GitHub.
+
+GitHub is a cloud platform used to host Git repositories and collaborate on projects.
