@@ -100,6 +100,8 @@ After completing this project, I gained practical experience in:
 
 This project provided hands-on experience with fundamental Linux commands that are essential for DevOps engineers. It strengthened my understanding of the Linux environment and improved my confidence in working efficiently through the command line.
 
+---
+
 # DevOps-Project-2-Git-Version-Control
 
 DevOps Project 2 demonstrating the fundamentals of Git and GitHub, including repository initialization, version control, commit management, and collaboration workflow using Ubuntu Terminal as part of DecodeLabs Industrial Training 2026.
